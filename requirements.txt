@@ -5,4 +5,7 @@ matplotlib
 seaborn
 catboost
 xgboost
+ipykernel
+kagglehub
+kaggle
 -e .
